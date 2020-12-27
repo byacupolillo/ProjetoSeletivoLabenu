@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Projeto Seletivo Labenu</title>
+  <link href ="css/style.css" rel="stylesheet">
+</head>
+<body>
+  <div class="wrapper">
+    <nav class="menu">
+      <ul>
+        <li>
+          <a href="/index.html" id="home">HOME</a>
+        </li>
+        <li>
+          <a href="#" onclick="emConstrucao(); return false;">CURSOS</a>
+        </li>
+        <li>
+          <a href="#" onclick="emConstrucao();return false;">CONTATO</a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="conteudo">
+      <div class="titulo">
+        <h1>Projeto Seletivo Labenu</h1>
+        <img src="img/Labenu_logo.png" class="logo" alt="Logo da Labenu">
+      </div>
+      <div class="subtitulo">
+        <p>Turma Web Full Stack</p>
+      </div>
+    </div>
+
+    <footer class="rodape">
+      <div id="mensagem"></div>
+      <form class="newsEmail" action="#" name="formulario">
+        <input id="userEmail" type="text" name="email" placeholder="Coloque seu e-mail aqui"><button id="botaoEnviar" onclick="validaEmail(document.formulario.email); return false;">ENVIAR</button>
+      </form>
+    </footer>
+  </div>
+
+  <script type="text/javascript" src="js/script.js"></script>
+
+</body>
+</html>
