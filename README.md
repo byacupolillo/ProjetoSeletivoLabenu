@@ -1,3 +1,5 @@
+# Link da entrega do projeto - https://projeto-seletivo-labenu.byacp.repl.co/
+
 # Projeto de seleção Labenu: preparad@ para o Labenu?
 
 Obrigado por participar do processo seletivo da Labenu. Nesse repositório (repositório é o nome que damos a esse conjunto de arquivos!) você encontra as instruções e arquivos necessários para você participar desse processo. Para dar início, pedimos que você leia esse texto (arquivo README.md) por completo, e siga de forma rigorosa as nossas instruções. Qualquer dúvida ou problema no processo, não exite em entrar em contato com a equipe Labenu pelo nosso Slack ou email oi@labenu.com.br. Boa sorte!
